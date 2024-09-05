@@ -10,8 +10,8 @@ Documentation: https://ej2.syncfusion.com/vue/documentation/breadcrumb/vue-3-get
 ## Project pre-requisites
 Make sure that your machine has the following setup before starting to work on this project.
 
-Visual Studio Code
-Node.js
+Visual Studio Code 
+Node.js 
 Vue
 
 ## How to run this application?
