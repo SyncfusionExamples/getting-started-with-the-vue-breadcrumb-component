@@ -1,32 +1,61 @@
 # Getting Started with the Vue Breadcrumb Component
 
-A quick-start project that demonstrates how to add a Vue Breadcrumb component to a Vue app. This project also includes code snippets to customize the Breadcrumb item separator, enable navigation to the last item, set overflow modes, and configure both relative and absolute URLs for the Breadcrumb component.  
- 
-Example: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/breadcrumb/default.html
+**Repository Description**  
+This repository contains a quick‑start Vue sample that demonstrates how to integrate and customize the Syncfusion Vue Breadcrumb component in a Vue application.
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/breadcrumb/vue-3-getting-started
+A quick‑start project that demonstrates how to add a Vue Breadcrumb component to a Vue app. This project also includes code snippets to customize the breadcrumb item separator, enable navigation to the last item, configure overflow modes, and handle both relative and absolute URLs for the breadcrumb component.
 
+## Project Overview
+The purpose of this project is to help developers get started with the Syncfusion Vue Breadcrumb component. It shows common breadcrumb configuration scenarios that improve navigation clarity and user experience in Vue applications.
 
-## Project pre-requisites
-Make sure that your machine has the following setup before starting to work on this project.
+## Features
+- Integration of the Syncfusion Vue Breadcrumb component  
+- Custom breadcrumb item separators  
+- Navigation support for the last breadcrumb item  
+- Overflow mode configuration  
+- Handling of relative and absolute URLs  
 
-Visual Studio Code 
+## Examples
+- Online demo:<br>
+  https://ej2.syncfusion.com/vue/demos/#/bootstrap5/breadcrumb/default.html
 
-Node.js 
+## Prerequisites
+- Visual Studio Code  
+- Node.js  
+- Vue  
 
-Vue
+## Installation and Running the Application
 
-## How to run this application?
-To run this application, you need to first clone the getting-started-with-the-vue-breadcrumb-component repository and then navigate to its appropriate path where it has been located in your system.
-To do so, open the command prompt and run the below commands one after the other.
+### Clone the Repository
+```bash
+git clone https://github.com/SyncfusionExamples/getting-started-with-the-vue-breadcrumb-component.git
 ```
-git clone getting-started-with-the-vue-breadcrumb-component breadcrumb
-cd breadcrumb
-```
-## Installation
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed Vue packages into your current project and to do so, run the below command.
-```
+### Install Dependencies
+Once the project is downloaded, install the required Vue packages using:
+```bash
 npm install
 ```
-## Running on development server
-Run `npm run dev` command. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+This command installs all dependencies required to run the application locally.
+### Run on Development Server
+Start the development server using:
+```bash
+npm run dev
+```
+Navigate to `http://localhost:8080/`. The application will automatically reload if you change any of the source files.
+
+## Documentation
+- General Syncfusion documentation:<br>
+https://help.syncfusion.com/
+- Vue Introduction:<br>
+https://ej2.syncfusion.com/vue/documentation/introduction
+- Vue Breadcrumb Getting Started:<br>
+https://ej2.syncfusion.com/vue/documentation/breadcrumb/getting-started
+
+## Troubleshooting
+- Ensure Node.js and Vue are installed correctly.
+- Run npm install again if dependency issues occur.
+- Restart the development server if UI changes are not reflected.
+- Check the browser console for runtime errors.
+
+## Support
+For detailed API references, configuration guidance, and additional examples, refer to the Syncfusion Vue documentation links provided above.
