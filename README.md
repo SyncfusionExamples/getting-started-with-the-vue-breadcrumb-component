@@ -1,6 +1,5 @@
 # Getting Started with the Vue Breadcrumb Component
 
-**Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to integrate and customize the Syncfusion Vue Breadcrumb component in a Vue application.
 
 A quick‑start project that demonstrates how to add a Vue Breadcrumb component to a Vue app. This project also includes code snippets to customize the breadcrumb item separator, enable navigation to the last item, configure overflow modes, and handle both relative and absolute URLs for the breadcrumb component.
